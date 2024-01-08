@@ -1,0 +1,8 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1704610669.96281}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1704610669.96281}
+{"obj": {"type": "AssignString", "path": ["monitoring", "ba0f7118", "hostname"], "value": "LAPTOP-4P359TFO"}, "version": 3, "at": 1704610669.96281}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "LAPTOP-4P359TFO"}, "version": 4, "at": 1704610669.96281}
+{"obj": {"type": "AssignString", "path": ["monitoring", "ba0f7118", "pid"], "value": "17164"}, "version": 5, "at": 1704610669.96281}
+{"obj": {"type": "AssignString", "path": ["monitoring", "ba0f7118", "tid"], "value": "15032"}, "version": 6, "at": 1704610669.96281}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1704610669.96281}
+{"obj": {"type": "UploadFileSet", "path": ["source_code", "files"], "file_globs": ["c:\\Users\\quant\\gitclones\\nba-prediction\\notebooks2\\13.ipynb"], "reset": "False"}, "version": 8, "at": 1704610669.9638102}

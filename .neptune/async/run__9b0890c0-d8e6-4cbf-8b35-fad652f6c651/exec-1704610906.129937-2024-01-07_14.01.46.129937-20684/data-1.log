@@ -1,0 +1,25 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1, "at": 1704610906.4587076}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2, "at": 1704610906.4587076}
+{"obj": {"type": "AssignString", "path": ["monitoring", "85142c8b", "hostname"], "value": "LAPTOP-4P359TFO"}, "version": 3, "at": 1704610906.4597075}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "LAPTOP-4P359TFO"}, "version": 4, "at": 1704610906.4597075}
+{"obj": {"type": "AssignString", "path": ["monitoring", "85142c8b", "pid"], "value": "20684"}, "version": 5, "at": 1704610906.4597075}
+{"obj": {"type": "AssignString", "path": ["monitoring", "85142c8b", "tid"], "value": "17368"}, "version": 6, "at": 1704610906.4597075}
+{"obj": {"type": "AssignBool", "path": ["sys", "failed"], "value": false}, "version": 7, "at": 1704610906.4597075}
+{"obj": {"type": "UploadFileSet", "path": ["source_code", "files"], "file_globs": ["c:\\Users\\quant\\gitclones\\nba-prediction\\notebooks2\\13.ipynb"], "reset": "False"}, "version": 8, "at": 1704610906.4597075}
+{"obj": {"type": "AssignString", "path": ["source_code", "integrations", "neptune-xgboost"], "value": "1.1.1"}, "version": 9, "at": 1704610906.467293}
+{"obj": {"type": "AssignString", "path": ["note"], "value": "running"}, "version": 10, "at": 1704611055.3184888}
+{"obj": {"type": "AddStrings", "path": ["sys", "tags"], "values": ["lightgbm"]}, "version": 11, "at": 1704611055.319476}
+{"obj": {"type": "AssignString", "path": ["dataset", "train"], "value": "train_features.csv"}, "version": 12, "at": 1704611055.319476}
+{"obj": {"type": "AssignString", "path": ["dataset", "test"], "value": "test_features.csv"}, "version": 13, "at": 1704611055.3196664}
+{"obj": {"type": "AssignBool", "path": ["model", "parameters", "GPU"], "value": true}, "version": 14, "at": 1704611325.154766}
+{"obj": {"type": "AssignBool", "path": ["model", "parameters", "OPTUNA"], "value": true}, "version": 15, "at": 1704611325.154766}
+{"obj": {"type": "AssignBool", "path": ["model", "parameters", "GPU"], "value": true}, "version": 16, "at": 1704611337.166181}
+{"obj": {"type": "AssignBool", "path": ["model", "parameters", "OPTUNA"], "value": true}, "version": 17, "at": 1704611337.1670625}
+{"obj": {"type": "AssignString", "path": ["model", "optuna", "optuna_cv"], "value": "StratifiedKFold"}, "version": 18, "at": 1704611337.1670625}
+{"obj": {"type": "AssignInt", "path": ["model", "optuna", "optuna_folds"], "value": 5}, "version": 19, "at": 1704611337.1670625}
+{"obj": {"type": "AssignInt", "path": ["model", "optuna", "optuna_trials"], "value": 150}, "version": 20, "at": 1704611337.1670625}
+{"obj": {"type": "AssignInt", "path": ["model", "parameters", "k_folds"], "value": 5}, "version": 21, "at": 1704611337.1680694}
+{"obj": {"type": "AssignInt", "path": ["model", "parameters", "seed"], "value": 13}, "version": 22, "at": 1704611337.1680694}
+{"obj": {"type": "AssignInt", "path": ["model", "parameters", "num_boost_round"], "value": 2000}, "version": 23, "at": 1704611337.1680694}
+{"obj": {"type": "AssignBool", "path": ["model", "parameters", "enable_categorical"], "value": false}, "version": 24, "at": 1704611337.1680694}
+{"obj": {"type": "AssignInt", "path": ["model", "parameters", "early_stopping"], "value": 200}, "version": 25, "at": 1704611337.1680694}
